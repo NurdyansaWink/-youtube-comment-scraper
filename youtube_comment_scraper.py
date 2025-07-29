@@ -186,15 +186,14 @@ def get_video_comments(video_id, api_keys, max_retries=5):
 
 # ===== VIDEO URLS / IDS =====
 video_inputs = [
-    'https://www.youtube.com/watch?v=OwMiq_4cRfg',
-    'https://www.youtube.com/shorts/2RzQeceu7zE',
-    'https://www.youtube.com/shorts/WtlNyQaDKqE',
-    'https://www.youtube.com/watch?v=pdjGxjhYEyE',
-    'https://www.youtube.com/watch?v=RhvzDF-rT6M',
-    'https://www.youtube.com/watch?v=QPabphcIcgg',
-    'https://www.youtube.com/watch?v=u3Uq_I3705Q',
-    'https://www.youtube.com/watch?v=UyZUU7bNtqk',
-    'https://www.youtube.com/watch?v=asn4QV2pBz4'
+    'https://www.youtube.com/watch?v=xxxx',
+    'https://www.youtube.com/shorts/xxx',
+    'https://www.youtube.com/shorts/xxxx',
+    'https://www.youtube.com/watch?v=xxxx',
+    'https://www.youtube.com/watch?v=xxxx',
+    'https://www.youtube.com/watch?v=xxxx',
+    'https://www.youtube.com/watch?v=xxxx',
+ # Add more link as needed
 ]
 
 # ===== EXECUTE =====
