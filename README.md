@@ -70,7 +70,7 @@ pip install google-api-python-client pandas requests beautifulsoup4 tqdm
 Simply run:
 
 ```bash
-python your_script_name.py
+python youtube_comment_scraper.py
 ```
 
 Make sure you’ve set up your API keys correctly in the `API_KEYS` list.
