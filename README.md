@@ -91,7 +91,7 @@ If you use this project in your work, please cite it as:
 
 ```bibtex
 @software{youtube-comment-scraper,
-  author       = {Wink},
+  author       = {Nurdyansa},
   title        = {{YouTube Comment Scraper}},
   year         = {2025},
   publisher    = {GitHub},
