@@ -96,7 +96,7 @@ If you use this project in your work, please cite it as:
   year         = {2025},
   publisher    = {GitHub},
   journal      = {GitHub repository},
-  doi          = {10.5281/zenodo.1234567},
+  doi          = {10.5281/zenodo.16558019},
   url          = {https://github.com/NurdyansaWink/-youtube-comment-scraper}
 }
 ```
@@ -106,7 +106,7 @@ Alternatively, include the following citation metadata in your repository:
 ### `CITATION.cff`
 
 ```yaml
-cff-version: "1.2.0"
+cff-version: "1.1.0"
 title: "YouTube Comment Scraper"
 authors:
   - family-names: "Wink"
